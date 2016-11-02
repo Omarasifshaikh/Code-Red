@@ -1,5 +1,6 @@
 # Code-Red
 
+[![Build Status](https://travis-ci.org/AjinkyaChalke/Code-Red.svg?branch=master)](https://travis-ci.org/AjinkyaChalke/Code-Red)
 
 Description
 Code-Red is a multiplayer mobile game. It is developed for mobile devices implementing the Google's Project Tango platform.
